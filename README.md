@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaunSmitSmartCube
+- 👋 Hi, I’m JaunSmit
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me: Jsmit@smartcube.co
